@@ -1,6 +1,6 @@
 # Music Merge
 
-A simple script to merge your Music folders.
+A simple script to merge your Music folders. This is still a work in progress and has at least one known flaw in deduplication related to the order in which files get moved (if the numbered file is moved first then the unnumbered file will also be moved).
 
 ## Requirements:
 
